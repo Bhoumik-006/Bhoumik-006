@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhoumik Rajurkar
 
-<!--
-**Bhoumik-006/Bhoumik-006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Cybersecurity Student
 
-Here are some ideas to get you started:
+I am interested in:
+- Penetration Testing
+- SOC Analysis
+- Network Security
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Stack
+
+**Languages**
+- Python
+- Bash
+- C
+- Java
+
+**Tools**
+- Kali Linux
+- Wireshark
+- Nmap
+- Burp Suite
+- Splunk
+
+## 📫 Connect with Me
+- LinkedIn: Your LinkedIn URL
+- GitHub: Your GitHub URL
