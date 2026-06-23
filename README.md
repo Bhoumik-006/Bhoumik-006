@@ -92,7 +92,7 @@ I'm passionate about Cybersecurity, Ethical Hacking, and Artificial Intelligence
 
 ## 🌐 Connect With Me
 
-* LinkedIn: linkedin.com/in/bhoumik-rajurkar
+* LinkedIn: https://www.linkedin.com/in/bhoumik-rajurkar
 * GitHub: https://github.com/Bhoumik-006
 
 ---
